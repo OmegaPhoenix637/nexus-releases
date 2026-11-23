@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T16:44:44.202Z",
+  "updated": "2026-11-23T16:47:49.407Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -78,6 +78,31 @@
           "published": "2026-11-23T16:44:44.202Z",
           "exe": "velox.exe",
           "productName": "Velox"
+        }
+      }
+    },
+    "glance": {
+      "id": "glance",
+      "name": "Glance",
+      "tagline": "Movies, series and live TV on every screen",
+      "color": "#8b5cf6",
+      "mode": "exclusive",
+      "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/glance.png",
+      "version": "0.1.0",
+      "notes": "Glance voor Android via Nexus",
+      "planned": [],
+      "platforms": {
+        "android": {
+          "version": "0.1.0",
+          "file": "Glance-0.1.0-android.apk",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/glance-v0.1.0/Glance-0.1.0-android.apk.nxe",
+          "encrypted": true,
+          "sha256": "69e4649fcca542f15c2a0460440f8b8f51883b7e0e8bd84910fb8436e35fcb02",
+          "sig": "qstmCF1eW9FSU4u7nIRXbYBpkMamix+UfXiR/os9uHoC0Dgnpve+UaF94rTs7JKQqmyRm3gpvBf5PB5loRnKCA==",
+          "size": 8555427,
+          "published": "2026-11-23T16:47:49.407Z",
+          "package": "app.glance.android",
+          "versionCode": 1000
         }
       }
     }
