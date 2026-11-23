@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:20:58.465Z",
+  "updated": "2026-11-23T17:31:47.799Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -113,8 +113,8 @@
       "color": "#22d3ee",
       "mode": "exclusive",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/trace.png",
-      "version": "0.2.0",
-      "notes": "Trace voor Android via Nexus",
+      "version": "0.2.1",
+      "notes": "Trace via Nexus",
       "planned": [],
       "platforms": {
         "android": {
@@ -128,6 +128,18 @@
           "published": "2026-11-23T16:54:56.455Z",
           "package": "app.trace.desktop",
           "versionCode": 2000
+        },
+        "windows": {
+          "version": "0.2.1",
+          "file": "Trace-0.2.1-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/trace-v0.2.1/Trace-0.2.1-windows-x64-setup.exe.nxe",
+          "encrypted": true,
+          "sha256": "6edef3e2e181a2ec36548d61610d25f43ece6375824f41fea36cdf9a7f83ceaa",
+          "sig": "y2/E5TdmoBgf1ftAAlI74tU81jGtjox+88HQAZC1Q3gwM27opAS4cszWYsnGK0C0UdC04oWtuu97zbu5w2i0Bg==",
+          "size": 9252925,
+          "published": "2026-11-23T17:31:47.799Z",
+          "exe": "trace-desktop.exe",
+          "productName": "Trace"
         }
       }
     },
