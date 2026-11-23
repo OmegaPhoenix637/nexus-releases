@@ -17,11 +17,11 @@
       "tintColor": "8b5cf6",
       "versions": [
         {
-          "version": "0.1.1",
-          "buildVersion": "1001",
-          "date": "2026-11-23T16:17:39.439Z",
-          "localizedDescription": "Achtergrond-updates, versleutelde downloads, Android Hub, iPhone-app met modules",
-          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.1/Nexus-0.1.1-ios.ipa",
+          "version": "0.1.2",
+          "buildVersion": "1002",
+          "date": "2026-11-23T17:10:25.186Z",
+          "localizedDescription": "Zelf-update wacht tot de Hub dicht is; codeveld Android",
+          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.2/Nexus-0.1.2-ios.ipa",
           "size": 29421804,
           "minOSVersion": "17.0"
         }
