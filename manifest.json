@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:51:43.604Z",
+  "updated": "2026-11-23T17:59:32.444Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -12,33 +12,33 @@
       "color": "#8b5cf6",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
-      "version": "0.1.2",
-      "notes": "Zelf-update wacht tot de Hub dicht is; codeveld Android",
+      "version": "0.1.3",
+      "notes": "Zelf-update robuuster; achtergrond-updates bij aanmelden zonder admin",
       "planned": [],
       "platforms": {
         "windows": {
-          "version": "0.1.2",
-          "file": "Nexus-0.1.2-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.2/Nexus-0.1.2-windows-x64-setup.exe",
+          "version": "0.1.3",
+          "file": "Nexus-0.1.3-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.3/Nexus-0.1.3-windows-x64-setup.exe",
           "encrypted": false,
-          "sha256": "6a3c7e3a9b87cdafd40f0090550e60a1e1cbb3bbaa18a6a1bd4f54fb08dc01a1",
-          "sig": "Ejy48a6epiQ3j1CBKq1+O2zA+7woShdxIO+YWvbFezv/VepmY4e1eTJYiBxUx65omEhKg38Aw95fybyI+i4MCw==",
-          "size": 2132594,
-          "published": "2026-11-23T17:10:25.186Z",
+          "sha256": "ac0600f6889a6797312c95f17f673b35125eb489db54bb1d5e8f97b36e05affd",
+          "sig": "IFupcuwciMkoBR9XuI7wANgr9OtKzgtKjLbO3F8jPPo+ooL3uE4mV3kc8gvGZ4tpp0hwUyKUmCx+79CDg1b7Bg==",
+          "size": 2131873,
+          "published": "2026-11-23T17:59:32.444Z",
           "exe": "nexus-hub.exe",
           "productName": "Nexus"
         },
         "android": {
-          "version": "0.1.2",
-          "file": "Nexus-0.1.2-android.apk",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.2/Nexus-0.1.2-android.apk",
+          "version": "0.1.3",
+          "file": "Nexus-0.1.3-android.apk",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.3/Nexus-0.1.3-android.apk",
           "encrypted": false,
-          "sha256": "a8a0bf99b8ebb21c24ae37ff9b510a96abb4384894bcf400f2f78e134a59d325",
-          "sig": "LrO3P0dUmjZQ/MSt5ioQ1s19kNfLEuWFG5HOVzEEsMBx6vRQxdS3yt6iUk5LQ/mhhHIOs0lklWAvnjjAa4ZCCA==",
+          "sha256": "da8bb550a3c0da30e4a913401f34b6d61f20dc975da8873c5d127ab5a8c090dd",
+          "sig": "RrsuBeDjlsOkt/v8g6bISm8CUApgYg4o9l7hfGR6iTrIhfe1IRUTrzChx5o6TNFjhIVngpMbHAc0CQLd7TIRCA==",
           "size": 4977605,
-          "published": "2026-11-23T17:10:25.186Z",
+          "published": "2026-11-23T17:59:32.444Z",
           "package": "app.nexus.hub",
-          "versionCode": 1002
+          "versionCode": 1003
         },
         "ios": {
           "version": "0.1.2",
