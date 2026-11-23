@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T16:07:42.013Z",
+  "updated": "2026-11-23T16:17:39.439Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -13,7 +13,7 @@
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
       "version": "0.1.1",
-      "notes": "Achtergrond-updates zonder venster, versleutelde downloads, Android Hub",
+      "notes": "Achtergrond-updates, versleutelde downloads, Android Hub, iPhone-app met modules",
       "planned": [],
       "platforms": {
         "windows": {
@@ -27,6 +27,29 @@
           "published": "2026-11-23T16:07:42.013Z",
           "exe": "nexus-hub.exe",
           "productName": "Nexus"
+        },
+        "android": {
+          "version": "0.1.1",
+          "file": "Nexus-0.1.1-android.apk",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.1/Nexus-0.1.1-android.apk",
+          "encrypted": false,
+          "sha256": "dfa548597ff701355139da2841612aedc5824571881679b365614f97d92a051c",
+          "sig": "rqgk8WPSQyXvctAftj7L1PKpVYYKai3cqyiqqtmb4zdK0K5SalUyp2yTcvE6dxLs6wd5BjJe8dcwNE6puFoGBg==",
+          "size": 4977605,
+          "published": "2026-11-23T16:17:39.439Z",
+          "package": "app.nexus.hub",
+          "versionCode": 1001
+        },
+        "ios": {
+          "version": "0.1.1",
+          "file": "Nexus-0.1.1-ios.ipa",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.1/Nexus-0.1.1-ios.ipa",
+          "encrypted": false,
+          "sha256": "db077bce8beb879d5b20b6248a95c12005bd401b2b5cbf2346e10e1287d667e2",
+          "sig": "wOGR7R0+wGF9yut3Sh3LuvthfmYZ4cLbZfc2/plLIT96CKTJYdFxdOIH0XCUYTZki/ztY2FBpCpzC3L2s6tSBA==",
+          "size": 29421804,
+          "published": "2026-11-23T16:17:39.439Z",
+          "bundleId": "app.nexus.ios"
         }
       }
     },

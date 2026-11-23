@@ -6,6 +6,31 @@
   "iconURL": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus.png",
   "website": "https://github.com/OmegaPhoenix637/nexus-releases",
   "tintColor": "8b5cf6",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Nexus",
+      "bundleIdentifier": "app.nexus.ios",
+      "developerName": "Remko",
+      "subtitle": "Install, update and launch all apps",
+      "localizedDescription": "Install, update and launch all apps",
+      "iconURL": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
+      "tintColor": "8b5cf6",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "buildVersion": "1001",
+          "date": "2026-11-23T16:17:39.439Z",
+          "localizedDescription": "Achtergrond-updates, versleutelde downloads, Android Hub, iPhone-app met modules",
+          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.1/Nexus-0.1.1-ios.ipa",
+          "size": 29421804,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
   "news": []
 }
