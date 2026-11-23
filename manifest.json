@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:41:25.103Z",
+  "updated": "2026-11-23T17:48:17.562Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -88,8 +88,8 @@
       "color": "#8b5cf6",
       "mode": "exclusive",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/glance.png",
-      "version": "0.1.0",
-      "notes": "Glance voor Android via Nexus",
+      "version": "0.1.1",
+      "notes": "Glance via Nexus",
       "planned": [],
       "platforms": {
         "android": {
@@ -103,6 +103,18 @@
           "published": "2026-11-23T16:47:49.407Z",
           "package": "app.glance.android",
           "versionCode": 1000
+        },
+        "windows": {
+          "version": "0.1.1",
+          "file": "Glance-0.1.1-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/glance-v0.1.1/Glance-0.1.1-windows-x64-setup.exe.nxe",
+          "encrypted": true,
+          "sha256": "cb47af1f04aa5bbeb1328d2f93e9da4748f1ccc4938540a2249f79202a8d7f12",
+          "sig": "w+/kDYDD6WFscwh2NNW47HNpO1qG0QLesV8MKFD52mBpFiubPRnijlHUjLeqUJsvkfZ8QArcg+QMk111/UxKDA==",
+          "size": 61511435,
+          "published": "2026-11-23T17:48:17.562Z",
+          "exe": "glance-desktop.exe",
+          "productName": "Glance"
         }
       }
     },
