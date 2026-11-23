@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:35:29.656Z",
+  "updated": "2026-11-23T17:41:25.103Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -190,6 +190,34 @@
           "published": "2026-11-23T17:35:29.656Z",
           "exe": "f1-pitwall.exe",
           "productName": "F1 Pit Wall"
+        }
+      }
+    },
+    "zeroclip": {
+      "id": "zeroclip",
+      "name": "ZeroClip",
+      "tagline": "Zero-overhead instant replay and clips (NVENC)",
+      "color": "#ffc83d",
+      "mode": "background",
+      "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/zeroclip.png",
+      "version": "0.1.0",
+      "notes": "ZeroClip via Nexus",
+      "planned": [
+        "android",
+        "ios"
+      ],
+      "platforms": {
+        "windows": {
+          "version": "0.1.0",
+          "file": "ZeroClip-0.1.0-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/zeroclip-v0.1.0/ZeroClip-0.1.0-windows-x64-setup.exe.nxe",
+          "encrypted": true,
+          "sha256": "b4d6f1286b8af3e561a4f5d07c7493e2c89b23e3a087a6484d906182e1b19b6b",
+          "sig": "cGrkasdBmP9xc1Ng+vMGzLrFRoZ0wjqAVv4g2d4VgilpjGdvcpUohmiXD8sbMmH71k6JodmG0M0IHw++o9+sDg==",
+          "size": 55221120,
+          "published": "2026-11-23T17:41:25.103Z",
+          "exe": "zeroclip.exe",
+          "productName": "ZeroClip"
         }
       }
     }
