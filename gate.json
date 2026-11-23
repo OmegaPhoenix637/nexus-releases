@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "epoch": 1,
+  "issued": "2026-11-23T13:52:52.320Z",
+  "kdf": {
+    "alg": "pbkdf2-sha256",
+    "iterations": 400000,
+    "salt": "xM7Ranjhw/ZS3dJqW18eoA=="
+  },
+  "iv": "5Nc20fGpvNueob+y",
+  "sealed": "AK8A6l8JMn/uyjEQS+sRwimHr2qyB0ErH7Nu540hbFf5ZoUhqHrWOOI5Br/i+QId+OZiniMfzFC6g+PkqlI/0Hows/Fkh6T5lsIEv1n1l/1FVgDNPsTvAa8oBwa0perWT0Z4wPHpvZVOXVhdP4HHHM3BgMT6y3tTxeUnQaDxh3WLbawDgTN1x9Z8fp+J2rtEQNIdhLj9c9VCACqitKBJyCzKM3bK2y/GtW9Spn1lIQoj+3c4F7tZ",
+  "revoked": []
+}
