@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:10:25.186Z",
+  "updated": "2026-11-23T17:20:58.465Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -128,6 +128,31 @@
           "published": "2026-11-23T16:54:56.455Z",
           "package": "app.trace.desktop",
           "versionCode": 2000
+        }
+      }
+    },
+    "plated": {
+      "id": "plated",
+      "name": "Plated",
+      "tagline": "Learn to cook, plan meals, track nutrition",
+      "color": "#ff8a3d",
+      "mode": "exclusive",
+      "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/plated.png",
+      "version": "0.1.0",
+      "notes": "Plated via Nexus",
+      "planned": [],
+      "platforms": {
+        "windows": {
+          "version": "0.1.0",
+          "file": "Plated-0.1.0-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/plated-v0.1.0/Plated-0.1.0-windows-x64-setup.exe.nxe",
+          "encrypted": true,
+          "sha256": "ae5060ec22c60f5b928c8fb1832531c953add5a7ac4fe2adb9856f6167809127",
+          "sig": "VMW7eLa6n/JukKBusjQ8OGIeo0ZrLR7izgg1xXA2ZhvsYXksEtBRxlr453sQU5cEpcurzJJjDM8TZ62mzNE6CQ==",
+          "size": 6013805,
+          "published": "2026-11-23T17:20:58.465Z",
+          "exe": "plated.exe",
+          "productName": "Plated"
         }
       }
     }
