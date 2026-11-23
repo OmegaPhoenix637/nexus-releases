@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:48:17.562Z",
+  "updated": "2026-11-23T17:51:43.604Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -230,6 +230,34 @@
           "published": "2026-11-23T17:41:25.103Z",
           "exe": "zeroclip.exe",
           "productName": "ZeroClip"
+        }
+      }
+    },
+    "twincord": {
+      "id": "twincord",
+      "name": "Twincord",
+      "tagline": "Call, chat, share screens and play together",
+      "color": "#3ddc97",
+      "mode": "background",
+      "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/twincord.png",
+      "version": "3.6.0",
+      "notes": "Twincord via Nexus",
+      "planned": [
+        "android",
+        "ios"
+      ],
+      "platforms": {
+        "windows": {
+          "version": "3.6.0",
+          "file": "Twincord-3.6.0-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v3.6.0/Twincord-3.6.0-windows-x64-setup.exe.nxe",
+          "encrypted": true,
+          "sha256": "c9dd5a9ba16584e20ce92d39fc63a84360e0e42e5f686b62026a2ed7a2530de5",
+          "sig": "blY+KDY0uXUh24Sh/kWgYPO4kzIhONJUXTPcHyezW/1AEvS7/jKc9zHVm4yOanWhgUiXZBwZ1+QRouwlxEp3BQ==",
+          "size": 17076942,
+          "published": "2026-11-23T17:51:43.604Z",
+          "exe": "Twincord.exe",
+          "productName": "Twincord"
         }
       }
     }
