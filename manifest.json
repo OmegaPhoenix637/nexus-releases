@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:31:47.799Z",
+  "updated": "2026-11-23T17:35:29.656Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -165,6 +165,31 @@
           "published": "2026-11-23T17:20:58.465Z",
           "exe": "plated.exe",
           "productName": "Plated"
+        }
+      }
+    },
+    "f1-monitor": {
+      "id": "f1-monitor",
+      "name": "F1 Pit Wall",
+      "tagline": "Live F1 25 telemetry, strategy and overlay",
+      "color": "#e8402f",
+      "mode": "background",
+      "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/f1-monitor.png",
+      "version": "0.1.0",
+      "notes": "F1 Pit Wall via Nexus",
+      "planned": [],
+      "platforms": {
+        "windows": {
+          "version": "0.1.0",
+          "file": "F1PitWall-0.1.0-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/f1-monitor-v0.1.0/F1PitWall-0.1.0-windows-x64-setup.exe.nxe",
+          "encrypted": true,
+          "sha256": "da3b7a630458523e839a5e96e2a595adad3234b7712f453a39c0126a3f9b54ec",
+          "sig": "OlFquYuZx1AfyctFt9ywTEHh97/wMenUya2dcA2RJGOCDFDsVudGCrHx30JJkol2oH3kKiOpyehOt41xn6OdBQ==",
+          "size": 1867382,
+          "published": "2026-11-23T17:35:29.656Z",
+          "exe": "f1-pitwall.exe",
+          "productName": "F1 Pit Wall"
         }
       }
     }
