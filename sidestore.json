@@ -20,7 +20,7 @@
           "version": "0.1.2",
           "buildVersion": "1002",
           "date": "2026-11-23T17:30:02.756Z",
-          "localizedDescription": "Zelf-update robuuster; achtergrond-updates bij aanmelden zonder admin",
+          "localizedDescription": "Zelf-update via eenmalige Windows-taak",
           "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.2/Nexus-0.1.2-ios.ipa",
           "size": 20984336,
           "minOSVersion": "17.0"

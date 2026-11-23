@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T17:59:32.444Z",
+  "updated": "2026-11-23T18:09:19.024Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -12,19 +12,19 @@
       "color": "#8b5cf6",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
-      "version": "0.1.3",
-      "notes": "Zelf-update robuuster; achtergrond-updates bij aanmelden zonder admin",
+      "version": "0.1.4",
+      "notes": "Zelf-update via eenmalige Windows-taak",
       "planned": [],
       "platforms": {
         "windows": {
-          "version": "0.1.3",
-          "file": "Nexus-0.1.3-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.3/Nexus-0.1.3-windows-x64-setup.exe",
+          "version": "0.1.4",
+          "file": "Nexus-0.1.4-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.4/Nexus-0.1.4-windows-x64-setup.exe",
           "encrypted": false,
-          "sha256": "ac0600f6889a6797312c95f17f673b35125eb489db54bb1d5e8f97b36e05affd",
-          "sig": "IFupcuwciMkoBR9XuI7wANgr9OtKzgtKjLbO3F8jPPo+ooL3uE4mV3kc8gvGZ4tpp0hwUyKUmCx+79CDg1b7Bg==",
-          "size": 2131873,
-          "published": "2026-11-23T17:59:32.444Z",
+          "sha256": "6b7538c0979d4d8de09e64ec9cf1a5858fd980cd8c893d90262e1333aa2bf0a0",
+          "sig": "LPpJhugq4uSjX4ihMmNPTFaqT4noX5PghShc27EudSNf5j3OnSfQ8ogAozEU1vn95xHa7nzcU4FQ+9SfOgQrCQ==",
+          "size": 2132272,
+          "published": "2026-11-23T18:09:19.024Z",
           "exe": "nexus-hub.exe",
           "productName": "Nexus"
         },
