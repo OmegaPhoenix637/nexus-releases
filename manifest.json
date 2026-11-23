@@ -45,10 +45,10 @@
           "file": "Nexus-0.1.2-ios.ipa",
           "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.2/Nexus-0.1.2-ios.ipa",
           "encrypted": false,
-          "sha256": "7434b27148657ebd82a61adb8bcbabc7b053776dbd0915bea604a83bf30310b4",
-          "sig": "SqKrhnNi54ul4x//RbPB508mFNQIIL/+uhecinN1ZHnY+9SycVSPPKaDS/OvdUm2CjGXqC720Tf7cp+hFf4QDg==",
-          "size": 29421804,
-          "published": "2026-11-23T17:10:25.186Z",
+          "sha256": "0c53be29f12784797e66075ef829c7e4149fccb1551db68598f2d580d9869bc2",
+          "sig": "zmK0EpiPBR9zl8OZkcUpKI2uoVgklBs1OibG65TQkhbq8ttDVV4wIJ0XTgjllYjyRhbDgrUeWZ3K7b4MkyShCQ==",
+          "size": 20984336,
+          "published": "2026-11-23T17:30:02.756Z",
           "bundleId": "app.nexus.ios"
         }
       }
