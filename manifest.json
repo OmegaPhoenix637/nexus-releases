@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T19:05:25.276Z",
+  "updated": "2026-11-23T19:41:48.235Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -12,8 +12,8 @@
       "color": "#8b5cf6",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
-      "version": "0.1.6",
-      "notes": "Nieuw icoon zonder randen",
+      "version": "0.1.7",
+      "notes": "Iconen zonder randjes",
       "planned": [],
       "platforms": {
         "windows": {
@@ -41,14 +41,14 @@
           "versionCode": 1006
         },
         "ios": {
-          "version": "0.1.6",
-          "file": "Nexus-0.1.6-ios.ipa",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.6/Nexus-0.1.6-ios.ipa",
+          "version": "0.1.7",
+          "file": "Nexus-0.1.7-ios.ipa",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.7/Nexus-0.1.7-ios.ipa",
           "encrypted": false,
-          "sha256": "d9637af358dc93d0a585d302e05cd6b56a71bbd4f5af8a3c915d859db61f8c4d",
-          "sig": "FdBPHMM/zUT10k3PmOXFydoyolaZso6Uo1ScjwId2eKGplhNmsRt1Jijwcc3Wwd6PAqWf1S074ns6MTU8SH2AQ==",
-          "size": 20947298,
-          "published": "2026-11-23T19:05:25.276Z",
+          "sha256": "048698552b34e99eb98b726267ca43103ea4e10df96c47d94660af109b242e9d",
+          "sig": "MbiqfA4DcOf7KPIgGM5q01mJegOXZYIIRQ2XrgNOk7SvhMXHt4bQxgkRNPexs55Reqe+nqWO2C2aFzhDk1b2Bg==",
+          "size": 21133738,
+          "published": "2026-11-23T19:41:48.235Z",
           "bundleId": "app.nexus.ios"
         }
       }

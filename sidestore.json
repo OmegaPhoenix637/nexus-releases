@@ -17,12 +17,12 @@
       "tintColor": "8b5cf6",
       "versions": [
         {
-          "version": "0.1.6",
-          "buildVersion": "1006",
-          "date": "2026-11-23T19:05:25.276Z",
-          "localizedDescription": "Nieuw icoon zonder randen",
-          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.6/Nexus-0.1.6-ios.ipa",
-          "size": 20947298,
+          "version": "0.1.7",
+          "buildVersion": "1007",
+          "date": "2026-11-23T19:41:48.235Z",
+          "localizedDescription": "Iconen zonder randjes",
+          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.7/Nexus-0.1.7-ios.ipa",
+          "size": 21133738,
           "minOSVersion": "17.0"
         }
       ],
