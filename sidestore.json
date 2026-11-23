@@ -17,12 +17,12 @@
       "tintColor": "8b5cf6",
       "versions": [
         {
-          "version": "0.1.2",
-          "buildVersion": "1002",
-          "date": "2026-11-23T17:30:02.756Z",
-          "localizedDescription": "Testupdate zelf-update",
-          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.2/Nexus-0.1.2-ios.ipa",
-          "size": 20984336,
+          "version": "0.1.5",
+          "buildVersion": "1005",
+          "date": "2026-11-23T18:22:43.814Z",
+          "localizedDescription": "Geen wisselknop meer (wissel via de widget), laatste app opent direct, activatie en logins blijven na opnieuw installeren",
+          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.5/Nexus-0.1.5-ios.ipa",
+          "size": 20991661,
           "minOSVersion": "17.0"
         }
       ],

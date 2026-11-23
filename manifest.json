@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T18:20:06.393Z",
+  "updated": "2026-11-23T18:22:43.814Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -13,7 +13,7 @@
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
       "version": "0.1.5",
-      "notes": "Testupdate zelf-update",
+      "notes": "Geen wisselknop meer (wissel via de widget), laatste app opent direct, activatie en logins blijven na opnieuw installeren",
       "planned": [],
       "platforms": {
         "windows": {
@@ -41,14 +41,14 @@
           "versionCode": 1003
         },
         "ios": {
-          "version": "0.1.2",
-          "file": "Nexus-0.1.2-ios.ipa",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.2/Nexus-0.1.2-ios.ipa",
+          "version": "0.1.5",
+          "file": "Nexus-0.1.5-ios.ipa",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.5/Nexus-0.1.5-ios.ipa",
           "encrypted": false,
-          "sha256": "0c53be29f12784797e66075ef829c7e4149fccb1551db68598f2d580d9869bc2",
-          "sig": "zmK0EpiPBR9zl8OZkcUpKI2uoVgklBs1OibG65TQkhbq8ttDVV4wIJ0XTgjllYjyRhbDgrUeWZ3K7b4MkyShCQ==",
-          "size": 20984336,
-          "published": "2026-11-23T17:30:02.756Z",
+          "sha256": "0e3d1ec5193801982f8edcab2af5cdab0a16a6f06515b1ee009e44a12b57b88c",
+          "sig": "5Qc7m2O5q432awFDvAimGA9FObQTCNXlAe9RIX1P1cuEmKUfEMysfSeqdopjBs2/RAreb91Jb0IivbvAVqdHCw==",
+          "size": 20991661,
+          "published": "2026-11-23T18:22:43.814Z",
           "bundleId": "app.nexus.ios"
         }
       }
