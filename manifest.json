@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T16:17:39.439Z",
+  "updated": "2026-11-23T16:44:44.202Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -60,21 +60,22 @@
       "color": "#ff3d6e",
       "mode": "exclusive",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/velox.png",
-      "version": "0.1.1",
-      "notes": "Nu met Nexus-activatie",
+      "version": "0.1.2",
+      "notes": "Versleutelde download (alleen via Nexus)",
       "planned": [
         "android",
         "ios"
       ],
       "platforms": {
         "windows": {
-          "version": "0.1.1",
-          "file": "Velox-0.1.1-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/velox-v0.1.1/Velox-0.1.1-windows-x64-setup.exe",
-          "sha256": "e824352926da7f99321e00c41ad78cc2b839f3c0bc048004e3bdfc7d1d476636",
-          "sig": "wWsqLqT6cnolLgmQ/MczJ2z3XFtFFonRzazwh89T3ZsNMNzqtboLes1PPm5Swg6bzliUlqxiuUFdMxP7X64aAg==",
-          "size": 4712398,
-          "published": "2026-11-23T15:22:59.140Z",
+          "version": "0.1.2",
+          "file": "Velox-0.1.2-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/velox-v0.1.2/Velox-0.1.2-windows-x64-setup.exe.nxe",
+          "encrypted": true,
+          "sha256": "9425a150f4dbb1c92e88405db8044485683ad91a3388204d1105b5c660b0e329",
+          "sig": "qdlc5/9nUWPR2z+rRcGYxxMfyM6FzloEgCFTZQVXuEHd5lQE33QDe764vlE9E7E5cMMpFv/BeiTsqjtYGTaCAA==",
+          "size": 4713849,
+          "published": "2026-11-23T16:44:44.202Z",
           "exe": "velox.exe",
           "productName": "Velox"
         }
