@@ -1,0 +1,11 @@
+{
+  "name": "Nexus",
+  "identifier": "app.nexus.source",
+  "subtitle": "Remko's apps",
+  "sourceURL": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/sidestore.json",
+  "iconURL": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus.png",
+  "website": "https://github.com/OmegaPhoenix637/nexus-releases",
+  "tintColor": "8b5cf6",
+  "apps": [],
+  "news": []
+}
