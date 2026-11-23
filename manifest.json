@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T16:47:49.407Z",
+  "updated": "2026-11-23T16:54:56.455Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -103,6 +103,31 @@
           "published": "2026-11-23T16:47:49.407Z",
           "package": "app.glance.android",
           "versionCode": 1000
+        }
+      }
+    },
+    "trace": {
+      "id": "trace",
+      "name": "Trace",
+      "tagline": "Canvas, notes, mind maps and planning",
+      "color": "#22d3ee",
+      "mode": "exclusive",
+      "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/trace.png",
+      "version": "0.2.0",
+      "notes": "Trace voor Android via Nexus",
+      "planned": [],
+      "platforms": {
+        "android": {
+          "version": "0.2.0",
+          "file": "Trace-0.2.0-android.apk",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/trace-v0.2.0/Trace-0.2.0-android.apk.nxe",
+          "encrypted": true,
+          "sha256": "d4dfdaa4fd8c3cd940ce3464ab5e27e79563ed4ade17440bbc0ca71ce3f4f98d",
+          "sig": "D72udMZdqrUxoKLvWYOgVfQLnJTjRTFtFlCBfNF+dx0q8wEdZeccD4lnaqal6chW2eDfSj5aTjNYWN5KC2a5Dw==",
+          "size": 22683478,
+          "published": "2026-11-23T16:54:56.455Z",
+          "package": "app.trace.desktop",
+          "versionCode": 2000
         }
       }
     }
