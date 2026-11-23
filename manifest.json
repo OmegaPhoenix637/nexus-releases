@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T15:22:59.140Z",
+  "updated": "2026-11-23T16:07:42.013Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -12,18 +12,19 @@
       "color": "#8b5cf6",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
-      "version": "0.1.0",
-      "notes": "Eerste versie van Nexus Hub",
+      "version": "0.1.1",
+      "notes": "Achtergrond-updates zonder venster, versleutelde downloads, Android Hub",
       "planned": [],
       "platforms": {
         "windows": {
-          "version": "0.1.0",
-          "file": "Nexus-0.1.0-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.0/Nexus-0.1.0-windows-x64-setup.exe",
-          "sha256": "7e35d0a26f114014e0dd98d352da07f0cb921ef4d903450dc9141ba9152fbaed",
-          "sig": "KZeBxe+OdOY9BnsghFHxh1QZ4kFGitUvDOZdCo90fA4jwPkaRJ1xq8zDtlwW99YfjNH8DvztT+s7iCJHSO2VBg==",
-          "size": 2127603,
-          "published": "2026-11-23T14:07:14.550Z",
+          "version": "0.1.1",
+          "file": "Nexus-0.1.1-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.1/Nexus-0.1.1-windows-x64-setup.exe",
+          "encrypted": false,
+          "sha256": "a6751cd0912ca0edc1c5136a3dd8d2b1439a988ef554936ccf5f8eff55ff4a6b",
+          "sig": "xrYdpp/STNj3UQ9OqOm3FjL04YPopU9EleYtzp81USHOeZjnqdEvhHBHcwpaTEunS00RaHEixDgtxUZjcziaAg==",
+          "size": 2131315,
+          "published": "2026-11-23T16:07:42.013Z",
           "exe": "nexus-hub.exe",
           "productName": "Nexus"
         }
