@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-23T14:07:14.550Z",
+  "updated": "2026-11-23T14:28:50.812Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -26,6 +26,33 @@
           "published": "2026-11-23T14:07:14.550Z",
           "exe": "nexus-hub.exe",
           "productName": "Nexus"
+        }
+      }
+    },
+    "velox": {
+      "id": "velox",
+      "name": "Velox",
+      "tagline": "Fast, clean YouTube without the noise",
+      "color": "#ff3d6e",
+      "mode": "exclusive",
+      "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/velox.png",
+      "version": "0.1.0",
+      "notes": "Eerste versie via Nexus",
+      "planned": [
+        "android",
+        "ios"
+      ],
+      "platforms": {
+        "windows": {
+          "version": "0.1.0",
+          "file": "Velox-0.1.0-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/velox-v0.1.0/Velox-0.1.0-windows-x64-setup.exe",
+          "sha256": "82754c0a4e5a9eaae017cc65c39d2f53f040012e81fea6b74bc8fa15a2509b9d",
+          "sig": "mCr5feVGlpDTf93nTokc19GHXEtoVWFzbzIH7Uq6ZGu0d+34INuioFAMpVB/xQep5+FvQHtpoAM4/JbOK7/FAQ==",
+          "size": 4679650,
+          "published": "2026-11-23T14:28:50.812Z",
+          "exe": "velox.exe",
+          "productName": "Velox"
         }
       }
     }
