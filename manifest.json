@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-25T15:00:12.400Z",
+  "updated": "2026-11-26T18:27:46.744Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -240,24 +240,35 @@
       "color": "#3ddc97",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/twincord.png",
-      "version": "3.6.0",
-      "notes": "Twincord via Nexus",
+      "version": "4.0.0",
+      "notes": "Twincord 4.0: accounts, vrienden en groepen, bellen en scherm delen over afstand, kijkers kiezen resolutie en fps, AV1, meerdere streams, besturen, Twinnie voor alles, Android-app met kijken naar schermen.",
       "planned": [
-        "android",
         "ios"
       ],
       "platforms": {
         "windows": {
-          "version": "3.6.0",
-          "file": "Twincord-3.6.0-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v3.6.0/Twincord-3.6.0-windows-x64-setup.exe.nxe",
+          "version": "4.0.0",
+          "file": "Twincord-4.0.0-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.0.0/Twincord-4.0.0-windows-x64-setup.exe.nxe",
           "encrypted": true,
-          "sha256": "c9dd5a9ba16584e20ce92d39fc63a84360e0e42e5f686b62026a2ed7a2530de5",
-          "sig": "blY+KDY0uXUh24Sh/kWgYPO4kzIhONJUXTPcHyezW/1AEvS7/jKc9zHVm4yOanWhgUiXZBwZ1+QRouwlxEp3BQ==",
-          "size": 17076942,
-          "published": "2026-11-23T17:51:43.604Z",
+          "sha256": "16c6eaab5da0e6a22ca97faf5e78de026e598dd9cd613cc9eded7a1e66ce57fa",
+          "sig": "bgOg6WV1KZ601RwIakW7u//97mDoG2S3wBRDEckfW6n9EWqRl6I+iePoC5+7onQvHT9RerJ3xBt5bcxqxBiKDw==",
+          "size": 21111112,
+          "published": "2026-11-26T18:27:46.744Z",
           "exe": "Twincord.exe",
           "productName": "Twincord"
+        },
+        "android": {
+          "version": "4.0.0",
+          "file": "Twincord-4.0.0-android.apk",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.0.0/Twincord-4.0.0-android.apk.nxe",
+          "encrypted": true,
+          "sha256": "56612fb00bfbb1a076df69cdeec08e15c8a6c6cd6344feac59daf2bbe388be38",
+          "sig": "lg8svUfKUeNSBaP8aXXYBcXYk1b+jZTls29TL15rlwbcTCje9zLT71IxFzqc3CgIh7VBIOaYH19313lgdsutDg==",
+          "size": 26330254,
+          "published": "2026-11-26T18:27:46.744Z",
+          "package": "app.twincord.mobile",
+          "versionCode": 4000000
         }
       }
     }
