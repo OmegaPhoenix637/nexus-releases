@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-26T20:15:54.302Z",
+  "updated": "2026-11-26T21:57:41.894Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -240,21 +240,21 @@
       "color": "#3ddc97",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/twincord.png",
-      "version": "4.0.2",
-      "notes": "Fix: live berichten en bellen (server), uitloggen (klik linksonder op je naam), spellen/Spotify/whiteboard/agenda/rad weer in de linkerbalk, oud gekoppeld account rechtsboven weg, melding als live updates geweigerd worden.",
+      "version": "4.0.3",
+      "notes": "Klikken werkt altijd, menu's boven de stream, profielfoto's, balk onderaan met venster/volledig scherm, camera's blijven zichtbaar, volume per persoon, bellen op één apparaat, telefoon stil als je op je pc zit, geen valse 'in another call', instellingen op Android.",
       "planned": [
         "ios"
       ],
       "platforms": {
         "windows": {
-          "version": "4.0.2",
-          "file": "Twincord-4.0.2-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.0.2/Twincord-4.0.2-windows-x64-setup.exe.nxe",
+          "version": "4.0.3",
+          "file": "Twincord-4.0.3-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.0.3/Twincord-4.0.3-windows-x64-setup.exe.nxe",
           "encrypted": true,
-          "sha256": "8b6322f680b77590b98742d1e9f2916309a0c839097b7ebfc3e1f924440af066",
-          "sig": "n/U2n/UPxLfq8UMLtteQWxDsnYUa5/mAzag8PakWoR5sMVvcVPYBJge2HGFmLL9iwxr7bm5BQ+K6stGO3MeLCQ==",
-          "size": 21210299,
-          "published": "2026-11-26T20:15:54.302Z",
+          "sha256": "49930e172100147c6ba3f8b96eadc295e0d1f98e5c3c99ec9fe9bc79cb935d65",
+          "sig": "lnM8ocEQAgtlDErttVFjjVQT5+5SKILIftdGxpayVzzxPo0YT/v4sm2cIAVc1UOAFWAu6JVcXKUxSm6ZEZpuDQ==",
+          "size": 21262292,
+          "published": "2026-11-26T21:57:41.894Z",
           "exe": "Twincord.exe",
           "productName": "Twincord"
         },
