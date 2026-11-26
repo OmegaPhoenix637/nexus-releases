@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-26T21:57:41.894Z",
+  "updated": "2026-11-26T21:58:54.864Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -240,8 +240,8 @@
       "color": "#3ddc97",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/twincord.png",
-      "version": "4.0.3",
-      "notes": "Klikken werkt altijd, menu's boven de stream, profielfoto's, balk onderaan met venster/volledig scherm, camera's blijven zichtbaar, volume per persoon, bellen op één apparaat, telefoon stil als je op je pc zit, geen valse 'in another call', instellingen op Android.",
+      "version": "4.0.4",
+      "notes": "Android: instellingen-tab, profielfoto's, telefoon stil als je op je pc zit, bellen stopt op andere apparaten na opnemen.",
       "planned": [
         "ios"
       ],
@@ -259,16 +259,16 @@
           "productName": "Twincord"
         },
         "android": {
-          "version": "4.0.2",
-          "file": "Twincord-4.0.2-android.apk",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.0.2/Twincord-4.0.2-android.apk.nxe",
+          "version": "4.0.4",
+          "file": "Twincord-4.0.4-android.apk",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.0.4/Twincord-4.0.4-android.apk.nxe",
           "encrypted": true,
-          "sha256": "a3cb93a5b08f3e3fda005e7e1e3b038e1f888c4dd143e46950b618a2621b28ae",
-          "sig": "xnkg1fkULGBb1rOY4VvAettQ86hgCTGGKXYBoh0ypYe9BLyZCS4HHrkiTaWkilyTnPwLMZk3d9Q+JRODG65XBA==",
-          "size": 27186318,
-          "published": "2026-11-26T20:15:54.302Z",
+          "sha256": "5e9184e03e4e3f23bcb8009ca94962c7a0f6f782790d4014a4afc8e50fefbf41",
+          "sig": "9ncytkDDxFV3VG2UsRJBhHN5oIkFX4WD4Z4st0/Ic7wWjg6s7wnTlgvlvmfFKur/U8anIwjbzJJKvG5iaAaZAA==",
+          "size": 27247758,
+          "published": "2026-11-26T21:58:54.864Z",
           "package": "app.twincord.mobile",
-          "versionCode": 4000002
+          "versionCode": 4000004
         }
       }
     }
