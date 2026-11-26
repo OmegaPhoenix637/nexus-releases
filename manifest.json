@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-26T19:34:33.914Z",
+  "updated": "2026-11-26T19:37:02.033Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -12,19 +12,19 @@
       "color": "#8b5cf6",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
-      "version": "0.1.7",
-      "notes": "Iconen zonder randjes",
+      "version": "0.1.8",
+      "notes": "Updates van apps: 10 seconden van tevoren een melding, dan sluiten, bijwerken en weer starten.",
       "planned": [],
       "platforms": {
         "windows": {
-          "version": "0.1.5",
-          "file": "Nexus-0.1.5-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.5/Nexus-0.1.5-windows-x64-setup.exe",
+          "version": "0.1.8",
+          "file": "Nexus-0.1.8-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.8/Nexus-0.1.8-windows-x64-setup.exe",
           "encrypted": false,
-          "sha256": "f0a3ed5fc28c0101589ed84e70287ccf9c163bba8cc13e82642213e93c4c2841",
-          "sig": "tc+NrT6ryBOlj4Fi4yCfUJrKJaldjoXehb97CY5Nnvv89zZfuW0ac7zrlBzOqsv2z9od3Yh4EZ4XxXhZ2obgBA==",
-          "size": 2132202,
-          "published": "2026-11-23T18:20:06.393Z",
+          "sha256": "8e0fc87d5ad5fd70e106fd6b699de3133234471551bab66947642764e94fa6ce",
+          "sig": "oei6+3rP+DjuLtgzXzuwJ7RDJhkQgyjQ1bFic1JfGcjlrb3xZ89PoWIMX9C9MGew/g2AR2ZWrRO/0AwYm7shCQ==",
+          "size": 2133670,
+          "published": "2026-11-26T19:37:02.033Z",
           "exe": "nexus-hub.exe",
           "productName": "Nexus"
         },
