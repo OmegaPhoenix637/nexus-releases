@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-27T13:44:48.083Z",
+  "updated": "2026-11-27T13:54:18.919Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -12,8 +12,8 @@
       "color": "#8b5cf6",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
-      "version": "0.1.8",
-      "notes": "Updates van apps: 10 seconden van tevoren een melding, dan sluiten, bijwerken en weer starten.",
+      "version": "0.1.9",
+      "notes": "Twincord 4.1: the same full chat history on every device; streams: pinch to zoom, full screen. Widgets in more sizes with Twincord.",
       "planned": [],
       "platforms": {
         "windows": {
@@ -41,14 +41,14 @@
           "versionCode": 1006
         },
         "ios": {
-          "version": "0.1.7",
-          "file": "Nexus-0.1.7-ios.ipa",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.7/Nexus-0.1.7-ios.ipa",
+          "version": "0.1.9",
+          "file": "Nexus-0.1.9-ios.ipa",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.9/Nexus-0.1.9-ios.ipa",
           "encrypted": false,
-          "sha256": "048698552b34e99eb98b726267ca43103ea4e10df96c47d94660af109b242e9d",
-          "sig": "MbiqfA4DcOf7KPIgGM5q01mJegOXZYIIRQ2XrgNOk7SvhMXHt4bQxgkRNPexs55Reqe+nqWO2C2aFzhDk1b2Bg==",
-          "size": 21133738,
-          "published": "2026-11-23T19:41:48.235Z",
+          "sha256": "49cf52aeb1e9a363c00e3e3e22fa2de569125879894a7bd25890b839850eae92",
+          "sig": "oH7hVZ9epy4lAxAurGf1x7yBNWdBiPOh43q7doHlTkYYiT2Dq1S8F5NBYyEArU5f9ejXy18DYlpLQMSxI5DcDg==",
+          "size": 25795091,
+          "published": "2026-11-27T13:54:18.919Z",
           "bundleId": "app.nexus.ios"
         }
       }
