@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-26T21:58:54.864Z",
+  "updated": "2026-11-27T13:42:36.514Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -240,21 +240,21 @@
       "color": "#3ddc97",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/twincord.png",
-      "version": "4.0.4",
-      "notes": "Android: instellingen-tab, profielfoto's, telefoon stil als je op je pc zit, bellen stopt op andere apparaten na opnemen.",
+      "version": "4.1.0",
+      "notes": "4.1: the same full chat history on every device, big files from any device that has them, smaller photos, faster GIFs, videos play in Twincord, red tray dot for unread",
       "planned": [
         "ios"
       ],
       "platforms": {
         "windows": {
-          "version": "4.0.3",
-          "file": "Twincord-4.0.3-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.0.3/Twincord-4.0.3-windows-x64-setup.exe.nxe",
+          "version": "4.1.0",
+          "file": "Twincord-4.1.0-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/twincord-v4.1.0/Twincord-4.1.0-windows-x64-setup.exe.nxe",
           "encrypted": true,
-          "sha256": "49930e172100147c6ba3f8b96eadc295e0d1f98e5c3c99ec9fe9bc79cb935d65",
-          "sig": "lnM8ocEQAgtlDErttVFjjVQT5+5SKILIftdGxpayVzzxPo0YT/v4sm2cIAVc1UOAFWAu6JVcXKUxSm6ZEZpuDQ==",
-          "size": 21262292,
-          "published": "2026-11-26T21:57:41.894Z",
+          "sha256": "15f1b8694091fcc68b68ce6a63192ca46e41b8b5069d5b8f6525695dc2308a48",
+          "sig": "/WWI+JaRdeD6LDFM/ROObHUh39DFn2OH6GptMkO8/KwhPz0gSJwcy98kp2AstT3GeXOFk0QEYVxy4GKQUdNxCQ==",
+          "size": 21484620,
+          "published": "2026-11-27T13:42:36.514Z",
           "exe": "Twincord.exe",
           "productName": "Twincord"
         },
