@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "Nexus",
-  "updated": "2026-11-27T18:25:54.317Z",
+  "updated": "2026-11-27T18:36:45.667Z",
   "publicKey": "7NMH1W7r/8FJmCyDdKQ8Ox+B+h5/FSuxbWHVnB1SunY=",
   "gate": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/gate.json",
   "apps": {
@@ -12,19 +12,19 @@
       "color": "#8b5cf6",
       "mode": "background",
       "icon": "https://raw.githubusercontent.com/OmegaPhoenix637/nexus-releases/main/icons/nexus-hub.png",
-      "version": "0.1.9",
-      "notes": "Twincord 4.1: the same full chat history on every device; streams: pinch to zoom, full screen. Widgets in more sizes with Twincord.",
+      "version": "0.1.10",
+      "notes": "All apps can be open at the same time (Windows). iPhone: Twincord 4.1.2 with all chat settings, per-person volume, photos, files, videos, GIFs, voice messages, edit, forward, search, account settings.",
       "planned": [],
       "platforms": {
         "windows": {
-          "version": "0.1.8",
-          "file": "Nexus-0.1.8-windows-x64-setup.exe",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.8/Nexus-0.1.8-windows-x64-setup.exe",
+          "version": "0.1.10",
+          "file": "Nexus-0.1.10-windows-x64-setup.exe",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.10/Nexus-0.1.10-windows-x64-setup.exe",
           "encrypted": false,
-          "sha256": "8e0fc87d5ad5fd70e106fd6b699de3133234471551bab66947642764e94fa6ce",
-          "sig": "oei6+3rP+DjuLtgzXzuwJ7RDJhkQgyjQ1bFic1JfGcjlrb3xZ89PoWIMX9C9MGew/g2AR2ZWrRO/0AwYm7shCQ==",
-          "size": 2133670,
-          "published": "2026-11-26T19:37:02.033Z",
+          "sha256": "f067485272100211621cb7d081ce39bde7672a37146cf6b52fc049527e1f6a06",
+          "sig": "gDBEx0miZhb0y7SX1R/tnIgz5DZBlghpx5zCkywHfWw4YF6bR09qHBydAyWdoG5cdD7R9KZzKG7vgH8YMxYwCA==",
+          "size": 2134126,
+          "published": "2026-11-27T18:36:45.667Z",
           "exe": "nexus-hub.exe",
           "productName": "Nexus"
         },
@@ -41,14 +41,14 @@
           "versionCode": 1006
         },
         "ios": {
-          "version": "0.1.9",
-          "file": "Nexus-0.1.9-ios.ipa",
-          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.9/Nexus-0.1.9-ios.ipa",
+          "version": "0.1.10",
+          "file": "Nexus-0.1.10-ios.ipa",
+          "url": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.10/Nexus-0.1.10-ios.ipa",
           "encrypted": false,
-          "sha256": "49cf52aeb1e9a363c00e3e3e22fa2de569125879894a7bd25890b839850eae92",
-          "sig": "oH7hVZ9epy4lAxAurGf1x7yBNWdBiPOh43q7doHlTkYYiT2Dq1S8F5NBYyEArU5f9ejXy18DYlpLQMSxI5DcDg==",
-          "size": 25795091,
-          "published": "2026-11-27T13:54:18.919Z",
+          "sha256": "2805d038f362c3d7f385ef8d18f27a1539a38ed04a7b719d9c2541e717f5ba58",
+          "sig": "jLbl0ytP3roTQfXKSzXEpS/8lnDASq4OVAzOblrHunMWcOAg76ylgJsPCt6OxGxXaqPawSYqlIm31EK/EFCHAQ==",
+          "size": 26123705,
+          "published": "2026-11-27T18:36:45.667Z",
           "bundleId": "app.nexus.ios"
         }
       }

@@ -17,12 +17,12 @@
       "tintColor": "8b5cf6",
       "versions": [
         {
-          "version": "0.1.9",
-          "buildVersion": "1009",
-          "date": "2026-11-27T13:54:18.919Z",
-          "localizedDescription": "Twincord 4.1: the same full chat history on every device; streams: pinch to zoom, full screen. Widgets in more sizes with Twincord.",
-          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.9/Nexus-0.1.9-ios.ipa",
-          "size": 25795091,
+          "version": "0.1.10",
+          "buildVersion": "1010",
+          "date": "2026-11-27T18:36:45.667Z",
+          "localizedDescription": "All apps can be open at the same time (Windows). iPhone: Twincord 4.1.2 with all chat settings, per-person volume, photos, files, videos, GIFs, voice messages, edit, forward, search, account settings.",
+          "downloadURL": "https://github.com/OmegaPhoenix637/nexus-releases/releases/download/nexus-hub-v0.1.10/Nexus-0.1.10-ios.ipa",
+          "size": 26123705,
           "minOSVersion": "17.0"
         }
       ],
